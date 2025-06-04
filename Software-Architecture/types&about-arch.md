@@ -25,4 +25,7 @@ The wish to get decisions **right** early on.
     3. Modularity and encapsulation <br>
     4. Design patterns
 
-[Reference Link for more info](https://github.com/resources/articles/software-development/what-is-software-architecture)
+
+# References
+[Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
+[What is software architecture?](https://github.com/resources/articles/software-development/what-is-software-architecture)
