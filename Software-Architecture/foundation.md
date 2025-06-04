@@ -1,6 +1,6 @@
 # Software Architecture
 
-Architecture serves as a blueprint defining a system's crucial elements: structure, behavior, and interactions.
+Architecture serves as a blueprint defining a system's crucial elements: structure, behavior, and interactions. <br>
 A view of architecture is a 'shared understanding that expert developers have of the system design.' <br>
 The wish to get decisions **right** early on. <br>
 
