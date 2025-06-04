@@ -7,7 +7,7 @@ They act as an interface between the software and different parts of the compute
 Controls and monitors execution of other programs including: <br>
     - application programs <br>
     - other system software of computer <br>
-    ![Alt Text](images)
+    ![Concept of the OS](concept_viewofOS)
 
 
 
