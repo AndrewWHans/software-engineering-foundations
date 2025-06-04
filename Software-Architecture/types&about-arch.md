@@ -12,7 +12,7 @@ The wish to get decisions **right** early on.
     can be reused and reapplied to a variety of apps/solutions.
 <br>
 
-**common patterns** <br>
+**Common Patterns** <br>
     1. Monolithic <br>
     2. Microservices <br>
     3. Client-server <br>
@@ -23,9 +23,8 @@ The wish to get decisions **right** early on.
     1. SOLID principles <br>
     2. Separation of concerns <br>
     3. Modularity and encapsulation <br>
-    4. Design patterns
-
+    4. Design patterns <br>
 
 # References
-[Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
-[What is software architecture?](https://github.com/resources/articles/software-development/what-is-software-architecture)
+[Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/) <br>
+[What is software architecture?](https://github.com/resources/articles/software-development/what-is-software-architecture) <br>
