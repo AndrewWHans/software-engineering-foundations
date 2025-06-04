@@ -35,7 +35,7 @@ Within the world of enterprise, apps are built on the foundation provided by sof
 Businesses require a stable and well-defined base to ensure the successful development and operation of complex, large-scale systems. <br>
 Given that, we can say clear architectural guidelines serve as a roadmap that lead to smoother implementation, greater efficiency, and long-term maintainability. <br>
 A well-defined architecture with accurate diagrams, detailed design documentation, and a cohesive technology stack has directl impact to an application's functionality, scalability, security, maintainability, and good cost-efficiency. <br>
-    - This also helps ensure compatibility with target platforms, addressing the maturity and adoption of technology while simplifying ongoing support and evolution of the system.
+This also helps ensure compatibility with target platforms, addressing the maturity and adoption of technology while simplifying ongoing support and evolution of the system. <br>
 
 ## References
 
