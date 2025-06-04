@@ -33,7 +33,6 @@ The wish to get decisions **right** early on. <br>
     4. Design patterns
 
 ## References
-[Foundations of Software Architecture](https://www.linkedin.com/pulse/exploring-foundations-software-architecture-chukwuebuka-ejie-7yzjf/)
-[Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/) <br>
-[What is the SDLC?](https://github.com/resources/articles/software-development/what-is-sdlc) <br>
 [What is software architecture?](https://github.com/resources/articles/software-development/what-is-software-architecture) <br>
+[Foundations of Software Architecture](https://www.linkedin.com/pulse/exploring-foundations-software-architecture-chukwuebuka-ejie-7yzjf/)
+[What is the SDLC?](https://github.com/resources/articles/software-development/what-is-sdlc) <br>
