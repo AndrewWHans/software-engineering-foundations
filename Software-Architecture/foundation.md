@@ -19,10 +19,7 @@ The wish to get decisions **right** early on. <br>
     1. Monolithic
     2. Microservices
     3. Client-server
-        - 
     4. Layered
-        - system is divided into distinct layers, each layer being responsible for a specific area of functionality.
-        - simplifies the development and allows easier maintenance & scalability.
     5. Event-driven
 
 ###### **Design principles and best practices**
