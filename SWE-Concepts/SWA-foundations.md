@@ -31,5 +31,5 @@ The wish to get decisions **right** early on. <br>
 
 ## References
 [What is software architecture?](https://github.com/resources/articles/software-development/what-is-software-architecture) <br>
-[Foundations of Software Architecture](https://www.linkedin.com/pulse/exploring-foundations-software-architecture-chukwuebuka-ejie-7yzjf/)
+[Foundations of Software Architecture](https://www.linkedin.com/pulse/exploring-foundations-software-architecture-chukwuebuka-ejie-7yzjf/) <br>
 [What is the SDLC?](https://github.com/resources/articles/software-development/what-is-sdlc) <br>
