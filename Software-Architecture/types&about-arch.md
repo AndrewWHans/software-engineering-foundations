@@ -1,30 +1,34 @@
 # Software Architecture
+
 A view of architecture is a 'shared understanding that expert developers have of the system design.' <br>
 The wish to get decisions **right** early on.
 
-**Building blocks/key components include:**
-- software components:
+## Building blocks/key components include:
+
+- Software components:
     feature the data that can be plugged through to a larger system framework (packages, apps, or services).
-- programming interfaces:
+- Programming interfaces:
     when delivering data from one interface to another, components communicating with each other form a system relationship.
-- architecture style:
+- Architecture style:
     defining the system's patterns and organized to be referred back to the software development lifecycle (SDLC).
     can be reused and reapplied to a variety of apps/solutions.
-<br>
 
-**Common Patterns** <br>
-    1. Monolithic <br>
-    2. Microservices <br>
-    3. Client-server <br>
-    4. Layered <br>
+###### **Common Patterns**
+
+    1. Monolithic
+    2. Microservices
+    3. Client-server
+    4. Layered
     5. Event-driven
 
-**Design principles and best practices** <br>
-    1. SOLID principles <br>
-    2. Separation of concerns <br>
-    3. Modularity and encapsulation <br>
-    4. Design patterns <br>
+###### **Design principles and best practices**
 
-# References
+    1. SOLID principles
+    2. Separation of concerns
+    3. Modularity and encapsulation
+    4. Design patterns
+
+## References
 [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/) <br>
+[What is the SDLC?](https://github.com/resources/articles/software-development/what-is-sdlc) <br>
 [What is software architecture?](https://github.com/resources/articles/software-development/what-is-software-architecture) <br>
