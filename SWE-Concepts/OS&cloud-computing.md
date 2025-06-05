@@ -26,33 +26,34 @@ To check out more, please refer to this [link](https://www.geeksforgeeks.org/typ
 **Moore's Law**: the prediction that the number of transistors on an integrated circuit will double every 18 months. <br>
 The **kernel** is the core of the operating system, responsible for managing system resources and interacting directly with the hardware. <br>
 
-### Types of kernels include: <br>
+## Types of kernels include: <br>
 
 1) Monolithic
     - all operating systems operate in kernel spaces. Has dependencies between system components and complex code.
     - usually faster than other types of kernels (don't have to switch between the user & kernel modes for all system calls)<br>
-    - for memory: about 100s of MBs to GBs
+    - for memory: about 100s of MBs-GBs
 
 Examples are: Unix, Linux, Open VMS, etc.
 
 2) Micro
     - minimalist approach, virtual memory and thread scheduling.
     - more stable with less services in kernel space. Used in small OS
-    - is analogous, typical memory size is about ~10-100 KB+<br>
+    - is analogous, typical memory size is about ~10-100 MB <br>
     
 Examples are: Mach, L4,AmigaOS, Minix, K42, etc.
 
 3) Hybrid
     - combination of monolithic & micro, speed and design of monolithic while having the modularity and stability of a microkernel.
-    - memory size is 500MB - several GBs
+    - memory size is 500MB-several GBs
 
 Examples: Windows NT, Netware, BeOS, ReactOS, etc.
 
 4) Exo
     - kernel that follows end-to-end principle. Has the fewest hardware abstractions possible and allocates physical resources to applications.
-    - memory size is about 100s of KB.
+    - memory size is about 1-10 of MB.
 
-Examples are: 
+Examples are: Nemesis, ExOS, MIT Exokernel, XOK, etc.
+
 5) Nano
     - offers hardware abstraction but no system services.
     - does the bare minimum services for system to work.
