@@ -21,6 +21,7 @@ And many more! There are also **types** operating systems too, including *batch,
 To check out more, please refer to this [link](https://www.geeksforgeeks.org/types-of-operating-systems/). <br>
 
 ## Concepts
+
 **Moore's Law**: the prediction that the number of transistors on an integrated circuit will double every 18 months.
 The **kernel** is the core of the operating system, responsible for managing system resources and interacting directly with the hardware.
 
@@ -33,6 +34,7 @@ The **kernel** is the core of the operating system, responsible for managing sys
 
 
 ## References
+
 [Operating System Concepts 10th edition](https://os.ecci.ucr.ac.cr/slides/Abraham-Silberschatz-Operating-System-Concepts-10th-2018.pdf)
 [What is an Operating System?](https://www.geeksforgeeks.org/what-is-an-operating-system/) <br>
 [Functions of an Operating System](https://www.geeksforgeeks.org/functions-of-operating-system/) <br>
