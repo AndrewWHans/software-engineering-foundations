@@ -25,7 +25,7 @@ To check out more, please refer to this [link](https://www.geeksforgeeks.org/typ
 
 **Moore's Law**: the prediction that the number of transistors on an integrated circuit will double every 18 months. <br>
 The **kernel** is the core of the operating system, responsible for managing system resources and interacting directly with the hardware. <br>
-
+Mobile operating systems include not only a core kernel but also a **middleware**, a set of software frameworks that provide additional services to app developers. An example of this is Google's Android/Apple's iOS featuring the kernel along with middleware supporting databases, multimedia, and graphics.
 ## Types of kernels include: <br>
 
 1) Monolithic
@@ -68,5 +68,6 @@ Examples are: EROS, CapROS, seL4, etc.
 [What is an Operating System?](https://www.geeksforgeeks.org/what-is-an-operating-system/) <br>
 [Functions of an Operating System](https://www.geeksforgeeks.org/functions-of-operating-system/) <br>
 [Kernel in Operating System](https://www.geeksforgeeks.org/kernel-in-operating-system/) <br>
+[What is middleware?](https://www.redhat.com/en/topics/middleware/what-is-middleware)
 [Time-sharing](https://www.ibm.com/history/time-sharing) <br>
 [Understanding cloud computing](https://www.redhat.com/en/topics/cloud-computing) <br>
