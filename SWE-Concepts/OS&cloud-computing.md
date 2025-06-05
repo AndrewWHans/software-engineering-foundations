@@ -12,9 +12,8 @@ As a function, the operating system has many operations such as:
 - Memory: OS manages the computer's primary memory and provides mechanisms for optimizing memory use.<br>
 - Security: implements security policies and mechanisms like access control or encryption<br>
 
-And many more! There are also **types** operating systems too, including:
-- Batch/Time-sharing
-- Distributed/Network
+And many more! There are also **types** operating systems too, including *batch, time-sharing, distributed, network, real-time*. To learn more, refer to this [link](https://www.geeksforgeeks.org/types-of-operating-systems/)
+
 
 
 
