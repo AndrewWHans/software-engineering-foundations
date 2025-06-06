@@ -17,14 +17,20 @@ The end will be reached when:
 6) How much of each resource is needed?
 
 **Iron Triangle**<br>
-Projects have imposed constraints of scope, cost (resources), and time (schedule)
-Changing one constraint affects one or both of others, you are **not** able to fix all three at the same time.<br>
+Projects have imposed constraints of scope, cost (resources), and time (schedule) <br>
+Changing one constraint affects one or both of others, you are **not** able to fix all three at the same time. <br>
 Karl Wieger, suggests there is **five** interrelated project dimensions:
-- scope schedule cost staff quality
 
-<br>
+1) scope 
+2) schedule 
+3) cost 
+4) staff 
+5) quality
 
-**Project Life Cycle**<br>
+---
+
+### Project Life Cycle
+
 A series of phases that a project passes through from its initiation to its closure. Phases are time bounded with a start-end/control point.<br>
 There is a *scope* for projects with accurate aim to the:<br>
 project's objectives | deliverables | milestones<br>
@@ -34,6 +40,13 @@ technical requirements | limits & exclusions | customer reviews <br>
 ![Figure of Picking a Life Cycle](images\lifecyclechoice.png)
 
 
+### About Risks
+
+There are many risks that come into project management. To defining the word "risk", there must be conditions that come in play. <br>
+A good definition, by University of Texas at Dallas's powerpoint:<br>**"An uncertain event or condition that, if it occurs, has a positive or a negative effect on a project's objectives."**<br>
+In way, we can take that having the risk exposure = the probability (unsatisfactory outcome) * the loss (unsatisfactory outcome).<br>This can be pronounced as **RE = P(UO) * L(UO)** as well
+
+![Risk Serverity Matrix](images\riskserverity.png)
 
 
 ## References
