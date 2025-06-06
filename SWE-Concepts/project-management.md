@@ -23,7 +23,7 @@ Karl Wieger, suggests there is **five** interrelated project dimensions:
 - scope schedule cost staff quality 
 
 <br>
-**Project Life Cycle**<br>
+**Project Life Cycle
 A series of phases that a project passes through from its initiation to its closure. Phases are time bounded with a start-end/control point.<br>
 There is a *scope* for projects with accurate aim to the:<br>
 project's objectives | deliverables | milestones<br>
