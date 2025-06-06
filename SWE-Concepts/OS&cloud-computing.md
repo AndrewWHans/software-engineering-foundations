@@ -25,8 +25,8 @@ To check out more, please refer to this [link](https://www.geeksforgeeks.org/typ
 
 **Moore's Law**: the prediction that the number of transistors on an integrated circuit will double every 18 months. <br>
 The **kernel** is the core of the operating system, responsible for managing system resources and interacting directly with the hardware. <br>
-Mobile operating systems include not only a core kernel but also a **middleware**, a set of software frameworks that provide additional services to app developers. An example of this is Google's Android/Apple's iOS featuring the kernel along with middleware supporting databases, multimedia, and graphics.
-**Deadlock**: a set of processes that are indefinitely blocked due to each process waiting for another process to release a resource that it needs, and those processes are also waiting for each other to release the resources
+Mobile operating systems include not only a core kernel but also a **middleware**, a set of software frameworks that provide additional services to app developers. An example of this is Google's Android/Apple's iOS featuring the kernel along with middleware supporting databases, multimedia, and graphics. <br>
+**Deadlock**: a set of processes that are indefinitely blocked due to each process waiting for another process to release a resource that it needs, and those processes will wait for each other to release the resources.
 ## Types of kernels include: <br>
 
 1) Monolithic
