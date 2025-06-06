@@ -18,15 +18,11 @@ The end will be reached when:
 
 **Iron Triangle**<br>
 Projects have imposed constraints of scope, cost (resources), and time (schedule)
-
 Changing one constraint affects one or both of others, you are **not** able to fix all three at the same time.<br>
 Karl Wieger, suggests there is **five** interrelated project dimensions:
-- scope
-- schedule
-- cost
-- staff
-- quality
+- scope schedule cost staff quality 
 
+<br>
 **Project Life Cycle**<br>
 A series of phases that a project passes through from its initiation to its closure. Phases are time bounded with a start-end/control point.<br>
 There is a *scope* for projects with accurate aim to the:<br>
@@ -39,23 +35,8 @@ technical requirements | limits & exclusions | customer reviews
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## References
+
 [An Introduction to Software Project Management](https://personal.utdallas.edu/~mcp130030/talks/tIntroMgt.pdf)
 [Software Project Management](https://www.geeksforgeeks.org/software-engineering-software-project-management-spm/)
 [Guide to Software Project Management](https://www.smartsheet.com/content/software-project-management)
