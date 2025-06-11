@@ -28,6 +28,7 @@ The wish to get decisions **right** early on. <br>
     2. Separation of concerns
     3. Modularity and encapsulation
     4. Design patterns
+    5. SDLC
 
 ## Why does Software Architecture matter?
 
@@ -43,3 +44,4 @@ This also helps ensure compatibility with target platforms, addressing the matur
 [Foundations of Software Architecture](https://www.linkedin.com/pulse/exploring-foundations-software-architecture-chukwuebuka-ejie-7yzjf/) <br>
 [What is the SDLC?](https://github.com/resources/articles/software-development/what-is-sdlc) <br>
 [Enterprise application development](https://github.com/resources/articles/software-development/what-is-enterprise-application-development) <br>
+[Software Architecture & Design, Part I: Software Development Life Cycle, Software Architecture, and Architectural Pattern](https://anazimzada2020.medium.com/software-architecture-design-part-i-software-development-life-cycle-software-architecture-451b5a0a77e5)
