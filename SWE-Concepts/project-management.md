@@ -37,17 +37,11 @@ project's objectives | deliverables | milestones<br>
 technical requirements | limits & exclusions | customer reviews <br>
 **typical scope of defnition for a small project is about one-two pages long**
 
-![Figure of Picking a Life Cycle](images\lifecyclechoice.png)
-
-
 ### About Risks
 
 There are many risks that come into project management. To defining the word "risk", there must be conditions that come in play. <br>
 A good definition, by University of Texas at Dallas's powerpoint:<br>**"An uncertain event or condition that, if it occurs, has a positive or a negative effect on a project's objectives."**<br>
 In way, we can take that having the risk exposure = the probability (unsatisfactory outcome) * the loss (unsatisfactory outcome).<br>This can be pronounced as **RE = P(UO) * L(UO)** as well
-
-![Risk Serverity Matrix](images\riskserverity.png)
-
 
 ## References
 
