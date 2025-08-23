@@ -2,7 +2,7 @@
 
 This repository contains my notes, projects, and summaries from my journey studying software engineering fundamentals and exploring technology.
 
-Here is repo going over my [system design concepts and diagrmas as well](https://github.com/AndrewWHans/system-design-diagrams)
+Here is repo going over my [system design concepts and diagrams as well](https://github.com/AndrewWHans/system-design-diagrams)
 
 ## Topics Covered:
 - Agile vs Waterfall
